@@ -1,0 +1,11 @@
+{
+    "browsertime": {
+        "iterations": 3,
+        "browser": "chrome",
+        "connectivity": {
+            "profile": "3g",
+            "engine": "throttle"
+        }
+    },
+    "mobile": true
+}
