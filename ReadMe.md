@@ -16,4 +16,4 @@ npm run test:api
 npm run test:ui
 ```
 
-> *** problems might occur if you're not on windows machine. simple change paths in package.json accordingly. ***
+*** problems might occur if you're not on windows machine. simple change paths in package.json accordingly. ***
